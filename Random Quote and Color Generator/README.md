@@ -20,4 +20,5 @@ Enjoy the inspiration and the visual appeal!
 
 SCREENSHOTS :
 ![Screenshot 2024-06-20 224801](https://github.com/UtkarshDubeyGIT/Various-Javascript-Projects/assets/168926166/390d18fb-7833-4b1a-99ee-00acce3b6220)
-![Screenshot 2024-06-20 224801](https://github.com/UtkarshDubeyGIT/Various-Javascript-Projects/assets/168926166/7220fe0f-b230-4761-9977-9fed3e466b9c)
+![Screenshot 2024-06-20 224819](https://github.com/UtkarshDubeyGIT/Various-Javascript-Projects/assets/168926166/d7abb421-1348-40c3-8c81-f51acb63e546)
+
